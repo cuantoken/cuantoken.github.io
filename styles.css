@@ -29,12 +29,7 @@ header {
 
 main {
   padding: 20px;
-  max-width: 600px;
   margin: 0 auto;
-  background-image: url('https://raw.githubusercontent.com/cuantoken/cuantoken.github.io/main/images/bg.gif');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-color: transparent;
 }
 
 h2 {
